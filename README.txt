@@ -8,7 +8,7 @@ __________________________
 
 STARTING THE GAME:
 
-1.  Start your Lisp interpreter (ex. Emacs, LispWorks, Clisp)
+1.  Start your Lisp interpreter.  I recommend LispWorks.
 
 2.  Load the game with (load "<insert file path here>")
 
